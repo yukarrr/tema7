@@ -1,0 +1,7 @@
+C:\GitHub\tema7\tema7\bin\Debug\tema7.exe.config
+C:\GitHub\tema7\tema7\bin\Debug\tema7.exe
+C:\GitHub\tema7\tema7\bin\Debug\tema7.pdb
+C:\GitHub\tema7\tema7\obj\Debug\tema7.csproj.AssemblyReference.cache
+C:\GitHub\tema7\tema7\obj\Debug\tema7.csproj.CoreCompileInputs.cache
+C:\GitHub\tema7\tema7\obj\Debug\tema7.exe
+C:\GitHub\tema7\tema7\obj\Debug\tema7.pdb
